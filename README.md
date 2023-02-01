@@ -20,7 +20,6 @@ Now you start your own experiments.
 
 
 # Reference
-```bash
-Liu, X., Qi, C., & Guibas, L. (2019). FlowNet3D: Learning Scene Flow in 3D Point Clouds. CVPR.
+* Liu, X., Qi, C., & Guibas, L. (2019). FlowNet3D: Learning Scene Flow in 3D Point Clouds. CVPR.
 ```
 
